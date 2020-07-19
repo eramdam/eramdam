@@ -1,5 +1,5 @@
 <br />
-<img src="./images/acww-intro.png" alt="Hello there! My name is Damien, and this is my profile! ♥">
+<img src="https://raw.githubusercontent.com/eramdam/eramdam/master/images/acww-intro.png" alt="Hello there! My name is Damien, and this is my profile! ♥">
 
 ☀️ By day, I work at [Front](github.com/Frontapp) as a Front-end engineer
 
@@ -16,4 +16,4 @@
 - On Twitter 🐦 at [@Eramdam](twitter.com/eramdam)
 
 
-Have a nice day! ![](images/kirby.gif)
+Have a nice day! ![](https://raw.githubusercontent.com/eramdam/eramdam/master/images/kirby.gif)
