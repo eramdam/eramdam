@@ -5,7 +5,6 @@
 
 🌙 By night, I like to tinker around by writing userscripts, extensions and random programs that make my life easier and/or more fun!
 
-
 🛠Recent/ongoing open-source projects include:
 - [Better TweetDeck](https://github.com/eramdam/BetterTweetDeck), a WebExtension to supercharge TweetDeck 🚀
 - [Fold Imports](https://github.com/eramdam/fold-imports), a VSCode extension that automatically folds ES imports 
