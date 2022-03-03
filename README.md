@@ -7,7 +7,6 @@
 
 🛠Recent/ongoing open-source projects include:
 - [Better TweetDeck](https://github.com/eramdam/BetterTweetDeck), a WebExtension to supercharge TweetDeck 🚀
-- [Fold Imports](https://github.com/eramdam/fold-imports), a VSCode extension that automatically folds ES imports 
 - [pokemonshow](https://github.com/eramdam/pokemonshow), have you ever wanted to show a Pokémon in your terminal? There's a package for that! ![](https://raw.githubusercontent.com/eramdam/pokemonshow/master/images/037-Vulpix-A.png) ![](https://raw.githubusercontent.com/eramdam/pokemonshow/master/images/054-Psyduck.png) ![](https://raw.githubusercontent.com/eramdam/pokemonshow/master/images/077-Ponyta-G.png) ![](https://raw.githubusercontent.com/eramdam/pokemonshow/master/images/133-Eevee.png) ![](https://raw.githubusercontent.com/eramdam/pokemonshow/master/images/132-Ditto.png) ![](https://raw.githubusercontent.com/eramdam/pokemonshow/master/images/251-Celebi.png)
 - [GifsOnTumblr](https://github.com/eramdam/GifsOnTumblr) Simple WebExtension to show gif as actual `.gif` files on Tumblr instead of `.gifv`.
 
