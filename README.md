@@ -7,7 +7,7 @@
 
 📫 You can reach me:
 
-- On Mastodon 🐘 at [eramdam@octodon.social](https://octodon.social/@eramdam)
+- On Mastodon 🐘 at [eramdam@erambert.me](https://social.erambert.me/@eramdam)
 - On Twitter 🐦 at [@Eramdam](https://twitter.com/eramdam)
 - On Cohost 🥚🐛 at [@Eramdam](https://cohost.org/eramdam)
 - On Bluesky 🦋 at [@eramdam.me](https://bsky.app/profile/eramdam.me)
