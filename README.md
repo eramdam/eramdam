@@ -8,8 +8,8 @@
 📫 You can reach me:
 
 - On Mastodon 🐘 at [eramdam@erambert.me](https://social.erambert.me/@eramdam)
-- On Twitter 🐦 at [@Eramdam](https://twitter.com/eramdam)
-- On Cohost 🥚🐛 at [@Eramdam](https://cohost.org/eramdam)
+- ~~On Twitter 🐦 at [@Eramdam](https://twitter.com/eramdam)~~ Not really there much anymore
 - On Bluesky 🦋 at [@eramdam.me](https://bsky.app/profile/eramdam.me)
+- My longer form thoughts on [damien.zone](https://damien.zone)
 
 Have a nice day! ![](https://raw.githubusercontent.com/eramdam/eramdam/master/images/kirby.gif)
